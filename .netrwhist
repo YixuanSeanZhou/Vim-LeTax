@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/weisun/Desktop/Coding/SD_HACK/GPR'
+let g:netrw_dirhist_2='/Users/weisun/Desktop/Coding/React-Native-Learning/albums'
+let g:netrw_dirhist_3='/Users/weisun/Desktop/UCSD/Courses/CSE 15L/homework'
+let g:netrw_dirhist_4='/Users/weisun/Desktop/UCSD/Courses/CSE 15L/homework/hw1'
+let g:netrw_dirhist_5='/Users/weisun/Desktop/UCSD/Courses'
+let g:netrw_dirhist_6='/Users/weisun/Desktop/Coding'
+let g:netrw_dirhist_7='/Users/weisun/Desktop/UCSD/Courses/CSE 12/Homeworks/hw5'
